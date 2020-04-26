@@ -1,2 +1,3 @@
-# Actividades-GIT
-Actividades propuestas en formación no presencial
+# Actividades GIT propuestas en formación no presencial
+
+

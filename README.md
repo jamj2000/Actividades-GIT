@@ -9,3 +9,5 @@
 - [Crear repositorio remoto y subir commits locales](05.md)
 - [Deshacer cambios en repositorio local](06.md)
 - [Archivo .gitignore](07.md)
+- [Usando un par de claves SSH](08.md)
+- [Resolviendo conflictos](09.md)

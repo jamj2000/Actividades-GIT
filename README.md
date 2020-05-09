@@ -11,3 +11,5 @@
 1. [Archivo .gitignore](07.md)
 1. [Usando un par de claves SSH](08.md)
 1. [Resolviendo conflictos](09.md)
+1. [Creación de ramas](10.md)
+1. [Fusión y eliminación de ramas](11.md)

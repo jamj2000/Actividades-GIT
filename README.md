@@ -1,4 +1,4 @@
-# Actividades GIT propuestas en formación no presencial
+# Actividades GIT propuestas
 
 
 1. [Áreas de un proyecto git](01.md)

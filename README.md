@@ -1,5 +1,4 @@
 # Actividades GIT propuestas en formación no presencial
-> Abril-Mayo 2020
 
 
 1. [Áreas de un proyecto git](01.md)
